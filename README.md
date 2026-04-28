@@ -8,7 +8,7 @@ The dataset contains over 5 million records of commercial airline flights, inclu
 - Conduct exploratory data analysis (EDA)
 - Build machine learning models: Classical ML model, Neural Network
 - Evaluate model performance
-- Develop a simple dashboard for predictions
+- Develop a simple demo for predictions
 ---
 ## Dataset
 The dataset consists of 4 tables:
@@ -23,5 +23,5 @@ The dataset consists of 4 tables:
 - Matplotlib, Seaborn
 - Scikit-learn
 - TensorFlow / Keras
-- Streamlit (for dashboard)
+- Streamlit (for the demo)
 
